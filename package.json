@@ -1,0 +1,16 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "practica de nodeJS de open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello-world"
+  },
+  "keywords": [
+    "javascript",
+    "helloworld"
+  ],
+  "author": "Rafael Ramirez",
+  "license": "ISC"
+}
